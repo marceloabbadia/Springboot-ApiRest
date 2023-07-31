@@ -1,6 +1,6 @@
 <h1>API Rest em Java no SpringBoot</h1>
 <br/>
-<h3>Trabalho feito Residência do Serratec para criar uma API Rest em Java no SpringBoot.</h3>
+#<h3>Trabalho feito Residência do Serratec para criar uma API Rest em Java no SpringBoot.</h3>
 
 <p>Para esse desenvolvimneto, usei o SpringTool 4 e Java 17, além do Postman para simular os endpoints.</p>
 <p>O trabalho simula um o catálogo de uma loja virtual que podem ser inseridos produtos com preço, descrição e categorizá-los em departamento.</p> 
